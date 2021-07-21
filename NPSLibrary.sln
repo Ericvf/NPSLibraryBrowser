@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31512.422
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPSLibrary", "NPSLibrary\NPSLibrary.csproj", "{F24F31A8-12A9-4CF6-9A35-9CD9EA88F33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24F31A8-12A9-4CF6-9A35-9CD9EA88F33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24F31A8-12A9-4CF6-9A35-9CD9EA88F33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24F31A8-12A9-4CF6-9A35-9CD9EA88F33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24F31A8-12A9-4CF6-9A35-9CD9EA88F33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D25460-C791-4E28-A701-BF9C7E4AF579}
+	EndGlobalSection
+EndGlobal
